@@ -128,21 +128,6 @@ pip freeze > requirements.txt
 
 ---
 
-## Bonus: `.gitignore`
-
-We’ve added a `.gitignore` file to ignore:
-
-- Virtual environments
-- Python cache files
-- Build folders
-- Output MIDI/image files
-- IDE config files (like `.vscode`)
-- Audiveris-generated stuff (`*.omr`)
-- Poppler image outputs
-
-So your repo stays clean when you commit changes.
-
----
 
 ## Final Thoughts
 
